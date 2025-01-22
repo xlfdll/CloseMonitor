@@ -1,5 +1,5 @@
 # Close Monitor Utility
-A simple Windows program to put monitors into sleep mode.
+A simple Windows program to put monitors into sleep mode
 
 ## System Requirements
 * .NET Framework 2.0
